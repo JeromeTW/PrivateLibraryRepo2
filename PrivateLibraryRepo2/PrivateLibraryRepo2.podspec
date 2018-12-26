@@ -21,17 +21,17 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Jerome.Hsieh/PrivateLibraryRepo2'
+  s.homepage         = 'https://github.com/JeromeTW/PrivateLibraryRepo2'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Jerome.Hsieh' => 'jerome.hsieh@bionime.com' }
-  s.source           = { :git => 'https://github.com/Jerome.Hsieh/PrivateLibraryRepo2.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/JeromeTW/PrivateLibraryRepo2.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'PrivateLibraryRepo2/Classes/**/*'
-  
+  s.source_files = 'PrivateLibraryRepo2/PrivateLibraryRepo2/Classes/**/*'
+
   # s.resource_bundles = {
   #   'PrivateLibraryRepo2' => ['PrivateLibraryRepo2/Assets/*.png']
   # }
