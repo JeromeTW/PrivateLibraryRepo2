@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'PrivateLibraryRepo2/Classes/**/*'
+  s.source_files = 'PrivateLibraryRepo2/PrivateLibraryRepo2/Classes/**/*'
 
   # s.resource_bundles = {
   #   'PrivateLibraryRepo2' => ['PrivateLibraryRepo2/Assets/*.png']
