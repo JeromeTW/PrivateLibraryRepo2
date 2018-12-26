@@ -35,7 +35,7 @@ SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
   Nimble-Snapshots: f5459b5b091678dc942d03ec4741cacb58ba4a52
-  PrivateLibraryRepo2: ad582d2800e81699c0d4a85b30ae0c2f89cec0bc
+  PrivateLibraryRepo2: e50011da46c7a9b1e980056e094342257d8d9084
   Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
 
 PODFILE CHECKSUM: 02bab10f8e5115318e29f0822c0380bde1bde5f5
